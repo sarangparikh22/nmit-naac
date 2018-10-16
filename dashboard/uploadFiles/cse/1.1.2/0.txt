@@ -1,0 +1,9 @@
+<uses-permission android:name="android.permission.INTERNET" />
+
+ classpath 'com.google.gms:google-services:3.0.0'
+
+compile "com.google.firebase:firebase-auth:9.0.2"
+compile 'com.google.firebase:firebase-database:11.0.2'
+}
+ 
+apply plugin: 'com.google.gms.google-services'
